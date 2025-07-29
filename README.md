@@ -20,6 +20,8 @@
 
 ## 🌟 What is FCL?
 
+# FIXME 
+
 The **Flow Client Library (FCL) JS** is a package designed to facilitate interactions between dapps, wallets, and the Flow blockchain. It provides a standardized way for applications to connect with users and their wallets, **eliminating the need for custom integrations**.
 
 ### 🔑 Key Features:
